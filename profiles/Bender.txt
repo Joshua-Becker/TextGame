@@ -1,0 +1,7 @@
+Bender
+10
+0
+standing
+[]
+False
+[]

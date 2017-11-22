@@ -1,0 +1,2 @@
+def explore(adventure, username):
+	
